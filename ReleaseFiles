@@ -1,3 +1,4 @@
 conf/app.properties
-libs/lib-1.pm
-shell/shell-1.pl
+conf/server.properties
+libs/lib-2.pm
+shell/shell-2.pl
